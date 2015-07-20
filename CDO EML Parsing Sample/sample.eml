@@ -1,0 +1,46 @@
+                                                                                                                                                                                                                                                               
+MIME-Version: 1.0
+Received: by 10.152.20.65 with HTTP; Mon, 20 Jul 2015 09:11:55 -0700 (PDT)
+Date: Mon, 20 Jul 2015 18:11:55 +0200
+Delivered-To: ries@amsterdamsoftware.com
+Message-ID: <CALg5Jkqm42ktsSWWXgXpCyd-2EgWQXPbDQaJ8St4-VwoPoG78Q@mail.gmail.com>
+Subject: sample with attachment
+From: Ries Vriend <ries@amsterdamsoftware.com>
+To: Ries Vriend <ries@amsterdamsoftware.com>
+Content-Type: multipart/mixed; boundary=001a113fbd26df847e051b50cb14
+
+--001a113fbd26df847e051b50cb14
+Content-Type: multipart/alternative; boundary=001a113fbd26df8471051b50cb12
+
+--001a113fbd26df8471051b50cb12
+Content-Type: text/plain; charset=UTF-8
+
+*BODY TEXT*
+
+-- 
+ries@amsterdamsoftware.com
+Ries Vriend
+
+www.amsterdamsoftware.com
+
+--001a113fbd26df8471051b50cb12
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><b>BODY TEXT</b><br clear=3D"all"><div><br></div>-- <br><d=
+iv class=3D"gmail_signature"><div dir=3D"ltr"><div><div><a href=3D"mailto:r=
+ies@amsterdamsoftware.com" target=3D"_blank">ries@amsterdamsoftware.com</a>=
+</div>Ries Vriend<div><br></div><div><a href=3D"http://www.amsterdamsoftwar=
+e.com" target=3D"_blank">www.amsterdamsoftware.com</a><br></div></div></div=
+></div>
+</div>
+
+--001a113fbd26df8471051b50cb12--
+--001a113fbd26df847e051b50cb14
+Content-Type: text/plain; charset=US-ASCII; name="attachment.txt"
+Content-Disposition: attachment; filename="attachment.txt"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_icc414nd0
+
+dGhpcyBpcyB0aGUgYXR0YWNobWVudA==
+--001a113fbd26df847e051b50cb14--
