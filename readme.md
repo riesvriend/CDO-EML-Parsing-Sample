@@ -1,8 +1,6 @@
-# CDO-EML-Parsing-Sample
+# EML Parsing Sample in C# using CDO
 
-This sample project answers the question ([on stackoverflow](http://stackoverflow.com/questions/936422/recommendations-on-parsing-eml-files-in-c-sharp)) on how .eml files can be parsed in C#.
-
-The sample shows how to read a raw .eml file, and how to extract the body parts to byte arrays or strings. 
+This sample project answers ([the question on stackoverflow](http://stackoverflow.com/questions/936422/recommendations-on-parsing-eml-files-in-c-sharp)) on how to parse a raw email file in .eml format using C#. 
 
 This fragment illustrates the API:
 
@@ -16,5 +14,7 @@ This fragment illustrates the API:
       Debug.WriteLine(attachment.GetString());
 ```
 
-CDOSYS v.6 is pre-installed on all modern versions of Windows versions (2012, 2008, 2003, 2000): https://support.microsoft.com/en-us/kb/171440
+CDOSYS v.6 is [pre-installed](https://support.microsoft.com/en-us/kb/171440) on all modern versions of Windows versions (2000 to 2016). 
 
+# Changelist
+20 Jul 2015 Ries Vriend: Initial commit
