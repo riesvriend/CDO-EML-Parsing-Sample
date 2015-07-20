@@ -1,8 +1,6 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Reflection;
+﻿using System.Diagnostics;
 using System.IO;
-using System.Diagnostics;
+using System.Reflection;
 
 namespace CDO_EML_Parsing_Sample
 {
